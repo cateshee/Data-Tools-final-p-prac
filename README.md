@@ -135,7 +135,17 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
+### Run tests
 
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
