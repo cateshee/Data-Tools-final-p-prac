@@ -1,33 +1,12 @@
-# Data-Tools-final-p-prac
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Getting Started
-- Authors
-- Contributing
-- Show your support
-- Acknowledgements
-
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
+# TasteHub Restaurant Order system-Data Tools Project
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img width="314" height="285" alt="image" src="https://github.com/user-attachments/assets/20661293-a214-4004-9042-657102fb0710" />
+  <img src="tastehub_logo.png" alt="TasteHub Restaurant Logo" width="300"/>
   <br/>
+  <p><i>Where Every Bite Tells a Story</i></p>
+</div>
 
-  <h3><b>Cate  ReadME Template</b></h3>
+  <h3><b>Cww ReadME Template</b></h3>
 
 </div>
 
