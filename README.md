@@ -1,9 +1,9 @@
 # TasteHub Restaurant Order system-Data Tools Project
 
 <div align="center">
-  <img src="tastehub_logo.png" alt="TasteHub Restaurant Logo" width="300"/>
+  <img src="https://github.com/cateshee/Data-Tools-final-p-prac/blob/main/TasteHub%20Logo%20Design.png?raw=true" width="300" height="280" alt="TasteHub Restaurant Logo"/>
   <br/>
-  <p><i>Where Every Bite Tells a Story</i></p>
+  <em>Where Every Bite Tells a Story</em>
 </div>
 
   <h3><b>Cww ReadME Template</b></h3>
