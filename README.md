@@ -6,12 +6,6 @@
   <em>Where Every Bite Tells a Story</em>
 </div>
 
-  <h3><b>Cww ReadME Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -33,11 +27,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [TasteHub Restaurant Ordering system] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> A simple restaurant ordering database for managing customers, menu items, and orders.
 
-**[your_project__name]** is a...
+**[TasteHub Restraunt Ordering System]** is a Supabase-powered database application designed to manage customers, menu items, and food orders in a restaurant environment.It displays proper database system design, including foreign key relationships, data consistency, and real-world restaurant operations such as managing orders, tracking menu items, and linking customers to their purchases.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,9 +66,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Customer Management]**Maintain customer profiles.
+- **[Menu Items]**Add, update, and categorize dishes with pricing and descriptions.
+- **[Ordering System]**Track customer orders in real-time.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
